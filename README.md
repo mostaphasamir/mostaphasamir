@@ -13,7 +13,7 @@
 
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<img scr ="assets\github-user-contribution.svg" alt="snake"/>
+<img scr ="assets\github-user-contribution.svg" alt="snake" height="150"/>
   
   
 

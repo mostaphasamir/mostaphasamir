@@ -13,7 +13,8 @@
 
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<img scr ="assets\github-user-contribution.svg" alt="snake" height="150"/>
+![Snake animation](https://github.com/mostaphasamir/mostaphasamir/assets/115727397/8962dfda-b9b7-488c-9635-bb7d546619ca)
+
   
   
 

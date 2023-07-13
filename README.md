@@ -13,7 +13,7 @@
 
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/mostaphasamir/mostaphasamir/assets/115727397/8962dfda-b9b7-488c-9635-bb7d546619ca)
+![Snake animation](https://github.com/mostaphasamir/mostaphasamir/assets/115727397/f7f0a0ff-43af-4e2d-a15c-0e2dc971ed4e)
 
   
   
